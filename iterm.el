@@ -45,6 +45,8 @@
 ;; iterm-send-file-julia - sends "include([current file])" to iTerm
 ;; iterm-cwd-juli - sends "cd([curent file's directory])" to iTerm
 
+;; plenty that could use improving here, this is very specific to my setup
+
 ;; example configuration with use-package
 
 ;; (use-package iterm
